@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<div id="header">
+			<p id="name">ERIC SANDAUCOURT</p>
+			<a href="mailto:ericsandaucourt@hotmail.fr"><p id="email">ericsandaucourt@hhotmail.fr</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>Objectif</h4>
+			<p>Être aspirant dévellopeur web</p>
+			<h1>Expérience</h1>
+			<p>en classe inversée chez simplon </p>
+			<ul>
+				<li>classe inversée Simplon</li>
+				<li>Codecademy</li>
+			</ul>
+			<h3>Compétences</h3>
+			<h2>langues parlées</h2>
+			<p>français,anglais et notion polonais</p>
+			<p>html et css</p>
+			<p> débutant ruby et php</p>
+			<main>
+      <h4>Scolarité</h4>
+			
+			<p>chez simplon depuis peu </p>
+			<ul>
+				<li><h5>bts hotellerie restauration</h5>
+				<h6>gestion hotelière</h6>
+				</li>
+			</ul>
+      </main>
+		</div>
+		<div id="footer">
+			<p>34 rue Abbé Friesenhauser 8800 Epinal vosges 0612536004</p>
+		</div>
+	    
+	</body>
+</html>
