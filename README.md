@@ -1,3 +1,3 @@
 # semaine2
 liste des badges codecademy
-https://github.com/rico07128/semaine2.git
+https://www.codecademy.com/fr/users/systemPlayer80322/achievements
